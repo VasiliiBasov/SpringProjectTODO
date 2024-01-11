@@ -1,0 +1,9 @@
+.text-block {
+    margin-left: 20px
+}
+.feedback_form {
+    bottom: 10px;
+    left: 10px;
+    width: 400px;
+    position: absolute
+}
